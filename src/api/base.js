@@ -2,7 +2,7 @@
 
 import axios from "axios";
 
-export const API_URL = "https://my-json-server.typicode.com/Viktor19931/fake-api"
+export const API_URL = "https://my-json-server.typicode.com/Davinchi01/milonas"
 
 export const request = async (
   url: string,
